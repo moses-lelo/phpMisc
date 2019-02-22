@@ -1,0 +1,9 @@
+{
+    "name": "phpMisc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "miniapp\\": "scr/miniapp"
+        }
+    }
+}
